@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git really can track changes.
 Do you understand?
+learn differences between "git diff" and "git diff HEAD --".
