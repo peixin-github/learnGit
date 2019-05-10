@@ -7,3 +7,4 @@ Do you understand?
 learn differences between "git diff" and "git diff HEAD --".
 "git diff" working directory and stage;
 "git diff HEAD -- " working dictory and repository;
+add merge
